@@ -1,1 +1,1 @@
-# BootcampX
+# BootcampX - project using Postgresql
